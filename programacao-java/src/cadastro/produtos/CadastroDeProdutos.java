@@ -1,3 +1,5 @@
+package cadastro.produtos;
+
 import java.util.Scanner;
 
 public class CadastroDeProdutos {

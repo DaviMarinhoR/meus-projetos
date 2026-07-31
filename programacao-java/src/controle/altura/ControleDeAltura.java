@@ -1,3 +1,5 @@
+package controle.altura;
+
 import java.util.Scanner;
 
 public class ControleDeAltura {
